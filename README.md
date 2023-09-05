@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jakedarby24, a current student at university in Liverpool. I'm planning to build this page up with a portfolio of my works at university.
+- 👋 Hi, I’m @jakedarby24. I'm currently working as a Software Developer at Wadaro in the UK. My work involves working with Javascript, React and MongoDB, all of which I now have 1 year of experience working with.
 
-Right now, it contains my final year project which will form my dissertation.
-
-<!---
-jakedarby24/jakedarby24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- This repository contains my personal projects, the main one being my 3rd year CompSci project at the University of Liverpool, where I built a visitor app for the Ness Botanic Gardens in the Wirral. This app was written in Swift for iOS.
+- I'm hoping this repo will be slowly built up with other projects over the coming years.
